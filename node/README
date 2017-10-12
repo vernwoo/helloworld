@@ -1,0 +1,3 @@
+install nodejs
+run 'node hellow.js'
+You should see "Hello world!" in console
